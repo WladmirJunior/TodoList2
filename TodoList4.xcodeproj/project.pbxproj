@@ -43,7 +43,9 @@
 				A9A1C10524EDB02D00395412 /* TodoList4 */,
 				A9A1C10424EDB02D00395412 /* Products */,
 			);
+			indentWidth = 2;
 			sourceTree = "<group>";
+			tabWidth = 2;
 		};
 		A9A1C10424EDB02D00395412 /* Products */ = {
 			isa = PBXGroup;
